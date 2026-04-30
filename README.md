@@ -6,7 +6,7 @@ Currently at Orange Polska - Telco - (Cost controlling, Investment Settlements).
 **Tools & Languages:**
 - **Finance/Reporting:** SAP RE, Oracle Fusion, Power BI, Excel, Power Query, Power Pivot
 - **Automation:** SQL basics (SELECT, JOIN, GROUP BY, data filtering, basic reports)
-- **Other:** Business Accounting (IFRS basics)
+- **Other:** Business Accounting (Polish GAAP, IFRS basics)
 
 ## 📊 Current Projects
 - **NordRetail Case Study** — Full financial model, financial forecast
