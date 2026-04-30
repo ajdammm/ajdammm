@@ -1,16 +1,23 @@
-## Hi there 👋
+# Adam W. | Financial Controller | Lublin, PL
 
-<!--
-**ajdammm/ajdammm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building financial models, automation tools, and dashboards.
+Currently at Orange Polska - Telco - (Cost controlling, Investment Settlements).
 
-Here are some ideas to get you started:
+**Tools & Languages:**
+- **Finance/Reporting:** SAP RE, Oracle Fusion, Power BI, Excel, Power Query, Power Pivot
+- **Automation:** SQL basics (SELECT, JOIN, GROUP BY, data filtering, basic reports)
+- **Other:** Business Accounting (IFRS basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Current Projects
+- **NordRetail Case Study** — Full financial model, financial forecast
+
+## 📚 Education & Certifications
+- M.Sc. Finance & Accounting (UMCS Lublin)
+- Financial Controller - advanced (SKwP) - 100h course
+- TELC C1 English
+- TELC German B2* (in progress)
+
+- ## 🗣️ Languages
+- Polish (Native)
+- English (C1)
+- German (B1+)
