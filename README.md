@@ -3,7 +3,7 @@
 Building financial models, automation tools, and dashboards.
 Currently at Orange Polska - Telco - (Cost controlling, Investment Settlements).
 
-**Tools & Languages:**
+**Tools & Skills:**
 - **Finance/Reporting:** SAP RE, Oracle Fusion, Power BI, Excel, Power Query, Power Pivot
 - **Automation:** SQL basics (SELECT, JOIN, GROUP BY, data filtering, basic reports)
 - **Other:** Business Accounting (Polish GAAP, IFRS basics)
