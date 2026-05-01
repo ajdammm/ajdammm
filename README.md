@@ -14,7 +14,7 @@ Currently at Orange Polska - Telco - (Cost controlling, Investment Settlements).
 ## 📚 Education & Certifications
 - M.Sc. Finance & Accounting (UMCS Lublin)
 - Financial Controller - advanced (SKwP) - 100h course
-- TELC C1 English
+- TELC English C1
 - TELC German B2* (in progress)
 
 - ## 🗣️ Languages
